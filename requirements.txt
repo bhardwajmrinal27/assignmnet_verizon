@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+langchain-openai==0.3.28
+openai==1.102.0
+python-dotenv==1.1.1
+streamlit==1.49.1
+pyvis==0.3.2

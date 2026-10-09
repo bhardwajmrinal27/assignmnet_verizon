@@ -1,0 +1,663 @@
+{
+  "article_number": "000123069",
+  "url": "https://www.dell.com/support/kbdoc/en-us/000123069/how-to-troubleshoot-dell-laptop-battery-issues",
+  "title": "How to Troubleshoot Dell Laptop Battery Issues",
+  "last_modified": "02 Jul 2026",
+  "affected_products": [
+    "Chromebook",
+    "G Series",
+    "Alienware",
+    "Dell Plus",
+    "Dell Pro",
+    "Dell Pro Max",
+    "Dell Pro Plus",
+    "Dell Pro Premium",
+    "Inspiron",
+    "Latitude",
+    "Dell Pro Rugged",
+    "Vostro",
+    "XPS",
+    "Legacy Laptop Models",
+    "Mobile Workstations",
+    "Dell Pro Max 16 XE MC16250"
+  ],
+  "sections": [
+    {
+      "heading": "Article",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Česky",
+            "Dansk",
+            "Deutsch",
+            "English",
+            "Español",
+            "Suomi",
+            "Français",
+            "Italiano",
+            "日本語",
+            "한국어",
+            "Nederlands",
+            "Norsk",
+            "Polski",
+            "Português",
+            "Русский",
+            "Svenska",
+            "Türkçe",
+            "繁體中文",
+            "Українська",
+            "简体中文"
+          ],
+          "text": "Česky\nDansk\nDeutsch\nEnglish\nEspañol\nSuomi\nFrançais\nItaliano\n日本語\n한국어\nNederlands\nNorsk\nPolski\nPortuguês\nРусский\nSvenska\nTürkçe\n繁體中文\nУкраїнська\n简体中文",
+          "links": [
+            {
+              "title": "Česky",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=cs"
+            },
+            {
+              "title": "Dansk",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=da"
+            },
+            {
+              "title": "Deutsch",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=de"
+            },
+            {
+              "title": "English",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=en"
+            },
+            {
+              "title": "Español",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=es"
+            },
+            {
+              "title": "Suomi",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=fi"
+            },
+            {
+              "title": "Français",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=fr"
+            },
+            {
+              "title": "Italiano",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=it"
+            },
+            {
+              "title": "日本語",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=ja"
+            },
+            {
+              "title": "한국어",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=ko"
+            },
+            {
+              "title": "Nederlands",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=nl"
+            },
+            {
+              "title": "Norsk",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=no"
+            },
+            {
+              "title": "Polski",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=pl"
+            },
+            {
+              "title": "Português",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=pt"
+            },
+            {
+              "title": "Русский",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=ru"
+            },
+            {
+              "title": "Svenska",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=sv"
+            },
+            {
+              "title": "Türkçe",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=tr"
+            },
+            {
+              "title": "繁體中文",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=tw"
+            },
+            {
+              "title": "Українська",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=uk"
+            },
+            {
+              "title": "简体中文",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000123069/how-to-troubleshoot-dell-laptop-battery-issues?lang=zh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Instructions",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Experiencing Dell laptop battery issues like fast draining or charging problems? Discover how to run Dell battery diagnostics, check battery health, verify your warranty, and decide when to replace your Dell laptop battery.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Before you begin:",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ensure that you have already checked your battery health and tried the basic charging steps outlined in our Battery Health Check guide and Battery Not Charging guide .",
+          "links": [
+            {
+              "title": "Battery Health Check guide",
+              "url": "https://www.dell.com/support/contents/en-in/article/product-support/self-support-knowledgebase/battery-and-power/battery"
+            },
+            {
+              "title": "Battery Not Charging guide",
+              "url": "https://www.dell.com/support/contents/en-in/article/product-support/self-support-knowledgebase/battery-and-power/ac-adapter"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The steps in this article assume that you have already:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verified your power outlet works.",
+            "Inspected your charger and cable for damage.",
+            "Performed a hard reset.",
+            "Reinstalled battery drivers.",
+            "Updated your BIOS and drivers.",
+            "Run Dell battery diagnostics."
+          ],
+          "text": "Verified your power outlet works.\nInspected your charger and cable for damage.\nPerformed a hard reset.\nReinstalled battery drivers.\nUpdated your BIOS and drivers.\nRun Dell battery diagnostics.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "If you have not done these yet, start with the links above first, as they resolve most charging issues.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "What You Will Find Here:",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "How to modify BIOS battery settings.",
+            "Troubleshoot AC adapter recognition issues.",
+            "Reset Windows power management.",
+            "Verify charging circuit functionality.",
+            "Identify when battery replacement is necessary."
+          ],
+          "text": "How to modify BIOS battery settings.\nTroubleshoot AC adapter recognition issues.\nReset Windows power management.\nVerify charging circuit functionality.\nIdentify when battery replacement is necessary.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Adjust BIOS Battery Settings:",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Your BIOS controls how your laptop manages battery charging. While these settings serve useful purposes, they can lead to unexpected behavior (prevent proper charging or limit battery capacity) if you are unaware they are active.",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Starting with the computer off. Press the Power button on the computer and immediately start pressing the F2 key once a second to access the BIOS Setup.",
+            "Go to the Power or Battery section (location varies by model).",
+            "Review the following settings:"
+          ],
+          "text": "Starting with the computer off. Press the Power button on the computer and immediately start pressing the F2 key once a second to access the BIOS Setup.\nGo to the Power or Battery section (location varies by model).\nReview the following settings:",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Primary Battery Charge Configuration",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Look for an option called Battery Configuration or Battery Charge Settings. You might see these modes:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Standard: Charges the battery to 100%.",
+            "Primarily AC Use Mode: This mode limits your battery charge to only 50–80% . If this is enabled, your laptop will stop charging well before reaching 100%, which can be frustrating if you need a full charge for travel or extended use away from a power outlet.",
+            "Custom Thresholds: If a custom charge threshold has been set (either by you or by a previous configuration), your battery will not charge beyond that defined limit. This can make it seem as though your battery or charger is malfunctioning.",
+            "Adaptive Mode: The system learns your usage patterns and adjusts charging on its own. This means the charge level may fluctuate or cap unexpectedly depending on how the system interprets your habits.",
+            "ExpressCharge Mode: While this enables rapid charging, it only charges the battery to 80% in approximately one hour, which may give the impression that the battery is not completing a full charge cycle."
+          ],
+          "text": "Standard: Charges the battery to 100%.\nPrimarily AC Use Mode: This mode limits your battery charge to only 50–80% . If this is enabled, your laptop will stop charging well before reaching 100%, which can be frustrating if you need a full charge for travel or extended use away from a power outlet.\nCustom Thresholds: If a custom charge threshold has been set (either by you or by a previous configuration), your battery will not charge beyond that defined limit. This can make it seem as though your battery or charger is malfunctioning.\nAdaptive Mode: The system learns your usage patterns and adjusts charging on its own. This means the charge level may fluctuate or cap unexpectedly depending on how the system interprets your habits.\nExpressCharge Mode: While this enables rapid charging, it only charges the battery to 80% in approximately one hour, which may give the impression that the battery is not completing a full charge cycle.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "AC Adapter Type",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Check whether your BIOS correctly recognizes your AC adapter.",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Select the Overview section.",
+            "Look at the listing for the AC Adapter .",
+            "Check whether your BIOS correctly recognizes your AC adapter."
+          ],
+          "text": "Select the Overview section.\nLook at the listing for the AC Adapter .\nCheck whether your BIOS correctly recognizes your AC adapter.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "What to do: If it shows \"Unknown\" or the wrong wattage, your laptop might not charge properly or may charge slowly. This usually means:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "You are using an incompatible charger.",
+            "The charger is faulty, see the Verify Charging Circuit Functionality section for troubleshooting steps.",
+            "The charging port has a connection issue."
+          ],
+          "text": "You are using an incompatible charger.\nThe charger is faulty, see the Verify Charging Circuit Functionality section for troubleshooting steps.\nThe charging port has a connection issue.",
+          "links": [
+            {
+              "title": "Verify Charging Circuit Functionality",
+              "url": "https://www.dell.com/support/kbdoc/en-us/000123069/how-to-troubleshoot-dell-laptop-battery-issues#Verify_Charging"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Try a different Dell-approved charger that matches your laptop's wattage requirements. See the manual of your computer for specifications of the AC adapter needed for your computer.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Advanced Configuration",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Some Dell laptops offer Advanced Battery Charge Configuration:",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Advanced Battery Charge helps keep your battery healthy while still allowing heavy use during the workday. When turned on, it works according to your daily schedule and selected time periods.",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "From Beginning of day and lasting through Work Period , Express Charge is used for accelerated battery charging.",
+            "For all other times, Standard Charge is used for maximum battery health.",
+            "Setting Work Period to 0 (zero) disables this feature for that day."
+          ],
+          "text": "From Beginning of day and lasting through Work Period , Express Charge is used for accelerated battery charging.\nFor all other times, Standard Charge is used for maximum battery health.\nSetting Work Period to 0 (zero) disables this feature for that day.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "To enable and configure the Advanced Battery Charge feature, perform the following steps:",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Ensure that the slider is set to ON .",
+            "Set the Beginning of day time and Work Period time.",
+            "After making changes, select Apply or Save .",
+            "Select Exit to restart your laptop."
+          ],
+          "text": "Ensure that the slider is set to ON .\nSet the Beginning of day time and Work Period time.\nAfter making changes, select Apply or Save .\nSelect Exit to restart your laptop.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Reset Windows Power Management Settings",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Windows manages how your laptop uses power, and corrupted power settings can interfere with charging. Resetting these settings often resolves charging behavior issues.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "To reset Windows power management, perform the following steps:",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Select Start , and then in the search box type, cmd.",
+            "Right-click Command Prompt from the list, and select Run as administrator .",
+            "In the Command Prompt window, type, powercfg -restoredefaultschemes , and then press Enter (This command resets all power plans to default settings).",
+            "In the Command Prompt window, type, powercfg -h off , and then press Enter (This command turns off hibernation).",
+            "In the Command Prompt window, type, powercfg -h on , and then press Enter (This command reenables hibernation)",
+            "Close the command prompt window.",
+            "Restart your laptop."
+          ],
+          "text": "Select Start , and then in the search box type, cmd.\nRight-click Command Prompt from the list, and select Run as administrator .\nIn the Command Prompt window, type, powercfg -restoredefaultschemes , and then press Enter (This command resets all power plans to default settings).\nIn the Command Prompt window, type, powercfg -h off , and then press Enter (This command turns off hibernation).\nIn the Command Prompt window, type, powercfg -h on , and then press Enter (This command reenables hibernation)\nClose the command prompt window.\nRestart your laptop.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "After restarting, Windows re-creates power management files with default settings. This can fix issues where corrupted power profiles prevent proper battery charging.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Verify Charging Circuit Functionality:",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The charging circuit manages power flow from your adapter to the battery. You can test whether this circuit works correctly.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "To verify the charging circuit, perform the following steps:",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "With your laptop turned off, plug in the AC adapter.",
+            "Observe the battery charging LED (usually near the power port). For the specific location of the battery charging light for your computer see the manual of your computer. NOTE: For information about obtaining the manual for your computer, see Dell Knowledge Base article Manuals and Documentation for your Dell Product . Solid white or green: The battery is charging normally. Amber or orange: The battery is charging, but health may be degraded. Blinking amber: Battery error or charging problem. No light: Power is not reaching the laptop, or the charging port has failed.",
+            "Turn on your laptop while plugged in.",
+            "Check whether Windows recognizes the AC adapter: Hover over the battery icon in the system tray. Look for \"Plugged in\" or \"AC adapter connected\" message."
+          ],
+          "text": "With your laptop turned off, plug in the AC adapter.\nObserve the battery charging LED (usually near the power port). For the specific location of the battery charging light for your computer see the manual of your computer. NOTE: For information about obtaining the manual for your computer, see Dell Knowledge Base article Manuals and Documentation for your Dell Product . Solid white or green: The battery is charging normally. Amber or orange: The battery is charging, but health may be degraded. Blinking amber: Battery error or charging problem. No light: Power is not reaching the laptop, or the charging port has failed.\nTurn on your laptop while plugged in.\nCheck whether Windows recognizes the AC adapter: Hover over the battery icon in the system tray. Look for \"Plugged in\" or \"AC adapter connected\" message.",
+          "links": [
+            {
+              "title": "Manuals and Documentation for your Dell Product",
+              "url": "https://www.dell.com/support/kbdoc/en-in/000133505/manuals-and-documentation-for-your-dell-product"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If the LED does not light up:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Your AC adapter is not providing power.",
+            "The charging port has failed.",
+            "The power cable is not fully inserted."
+          ],
+          "text": "Your AC adapter is not providing power.\nThe charging port has failed.\nThe power cable is not fully inserted.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "If Windows does not recognize the adapter:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "The charging circuit has a problem.",
+            "The AC adapter does not provide enough wattage."
+          ],
+          "text": "The charging circuit has a problem.\nThe AC adapter does not provide enough wattage.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "Try a different Dell-approved charger that matches your laptop's wattage requirements. See the manual of your computer for specifications of the AC adapter needed for your computer.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Update Intel Management Engine Interface",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The Intel Management Engine Interface (MEI) helps manage power delivery on Intel-based Dell laptops. An outdated MEI driver can cause charging problems.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "To update Intel MEI, perform the following steps:",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Select Start , and then in the search box type, device manager .",
+            "Select Device Manager from the results.",
+            "Expand System devices .",
+            "Look for Intel Management Engine Interface or Intel ME Interface .",
+            "Right-click the device and select Update driver .",
+            "Select Search automatically for drivers .",
+            "Follow the on-screen prompts to install updates.",
+            "Restart your laptop."
+          ],
+          "text": "Select Start , and then in the search box type, device manager .\nSelect Device Manager from the results.\nExpand System devices .\nLook for Intel Management Engine Interface or Intel ME Interface .\nRight-click the device and select Update driver .\nSelect Search automatically for drivers .\nFollow the on-screen prompts to install updates.\nRestart your laptop.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "When to Replace Your Battery:",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Consider replacing your battery when you notice:",
+          "links": []
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Battery health status showing \"Fair\" or \"Poor.\"",
+            "Significant reduction in runtime (less than 50% of original capacity).",
+            "Frequent diagnostic error codes during testing.",
+            "Unexpected shutdowns even when the battery shows charge remaining.",
+            "Physical swelling or damage to the battery.",
+            "Battery age exceeding 2-3 years with heavy use."
+          ],
+          "text": "Battery health status showing \"Fair\" or \"Poor.\"\nSignificant reduction in runtime (less than 50% of original capacity).\nFrequent diagnostic error codes during testing.\nUnexpected shutdowns even when the battery shows charge remaining.\nPhysical swelling or damage to the battery.\nBattery age exceeding 2-3 years with heavy use.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "How to Purchase a Replacement Battery:",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "When you are experiencing issues with your battery and it is no longer in warranty, it is necessary to purchase a new Dell battery.",
+          "links": []
+        },
+        {
+          "type": "p",
+          "text": "To purchase a Dell laptop battery, perform the following steps.",
+          "links": []
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Browse to the Dell Support site.",
+            "Identify your Dell laptop by entering your Service Tag , or selecting detect this PC automatically (and then Explore product support).",
+            "Once on your laptop's product support page, select Parts & Repairs .",
+            "Select Power & Power Supplies to view available batteries for your system.",
+            "Identify the wanted battery and select Add to Cart .",
+            "Follow the on-screen instructions to complete your purchase."
+          ],
+          "text": "Browse to the Dell Support site.\nIdentify your Dell laptop by entering your Service Tag , or selecting detect this PC automatically (and then Explore product support).\nOnce on your laptop's product support page, select Parts & Repairs .\nSelect Power & Power Supplies to view available batteries for your system.\nIdentify the wanted battery and select Add to Cart .\nFollow the on-screen instructions to complete your purchase.",
+          "links": [
+            {
+              "title": "Dell Support",
+              "url": "https://www.dell.com/support/home/en-in"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Batteries not available in your region? Contact your local Dell authorized Parter Program or reseller for assistance.",
+          "links": [
+            {
+              "title": "Parter Program or reseller",
+              "url": "https://www.delltechnologies.com/partner/en-us/partner/find-a-partner.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Check Your Laptop Battery Health",
+      "blocks": [
+        {
+          "type": "iframe",
+          "text": "Check Your Laptop Battery Health",
+          "links": [
+            {
+              "title": "Check Your Laptop Battery Health",
+              "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6079778525001",
+              "kind": "video"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duration: 02:34 Closed captions: This video is available in multiple languages. Click the CC icon, and then select the preferred language.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Utilize power-saving features to extend battery life.",
+      "blocks": [
+        {
+          "type": "iframe",
+          "text": "Utilize power saving features to extend battery life",
+          "links": [
+            {
+              "title": "Utilize power saving features to extend battery life",
+              "url": "https://players.brightcove.net/6057277730001/9kEtm2zEI_default/index.html?videoId=6176628861001",
+              "kind": "video"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duration: 02:51 Closed captions: This video is available in multiple languages. Click the CC icon, and then select the preferred language.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Maximize Laptop Battery Runtime",
+      "blocks": [
+        {
+          "type": "iframe",
+          "text": "Maximize Laptop Battery Runtime",
+          "links": [
+            {
+              "title": "Maximize Laptop Battery Runtime",
+              "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6079813364001",
+              "kind": "video"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duration: 01:25 Closed captions: This video is available in multiple languages. Click the CC icon, and then select the preferred language.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Check AC Adapter and Battery Status in BIOS",
+      "blocks": [
+        {
+          "type": "iframe",
+          "text": "Check AC Adapter and Battery Status in BIOS",
+          "links": [
+            {
+              "title": "Check AC Adapter and Battery Status in BIOS",
+              "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6368777609112",
+              "kind": "video"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duration: 00:44 Closed captions: This video is available in multiple languages. Click the CC icon, and then select the preferred language.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "heading": "Troubleshoot Battery Not Charging",
+      "blocks": [
+        {
+          "type": "iframe",
+          "text": "Troubleshoot Battery Not Charging",
+          "links": [
+            {
+              "title": "Troubleshoot Battery Not Charging",
+              "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6367835045112",
+              "kind": "video"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Duration: 02:26 Closed captions: English only.",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "title": "Check Your Laptop Battery Health",
+      "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6079778525001",
+      "kind": "video"
+    },
+    {
+      "title": "Utilize power saving features to extend battery life",
+      "url": "https://players.brightcove.net/6057277730001/9kEtm2zEI_default/index.html?videoId=6176628861001",
+      "kind": "video"
+    },
+    {
+      "title": "Maximize Laptop Battery Runtime",
+      "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6079813364001",
+      "kind": "video"
+    },
+    {
+      "title": "Check AC Adapter and Battery Status in BIOS",
+      "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6368777609112",
+      "kind": "video"
+    },
+    {
+      "title": "Troubleshoot Battery Not Charging",
+      "url": "https://players.brightcove.net/6057277730001/default_default/index.html?videoId=6367835045112",
+      "kind": "video"
+    }
+  ]
+}
