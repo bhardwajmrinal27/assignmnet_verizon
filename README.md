@@ -1,4 +1,4 @@
-# Dell Battery Troubleshooting Knowledge Graph
+# Battery Troubleshooting Knowledge Graph
 
 This project turns one Dell support article into an interactive troubleshooting graph. The source page is saved locally, cleaned into sections, sent to an OpenAI model through LangChain, validated against the graph ontology, and displayed in Streamlit. The graph is stored in `data/graph.json`; no database is used.
 
